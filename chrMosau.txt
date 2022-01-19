@@ -1,0 +1,9 @@
+// funktion um Ordner für Mitarbeiter zu erstellen (BASIS) anhand der txt-Datei der Mitarbeiter
+
+import java.io.File;
+import java.io.IOException;
+import java.util.*;
+
+public class createFolderMemeber {
+    String name_company = "";
+}
