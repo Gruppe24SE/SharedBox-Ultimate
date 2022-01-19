@@ -97,4 +97,4 @@
 
 
 
-Julian stinkt
+ stinkt; Ben du bist ein Huhrensohn
