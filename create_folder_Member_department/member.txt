@@ -1,0 +1,3 @@
+Alex;Muster;1234;alex.muster@firma.de;Recherche;06.12.2021, 12:30
+Kim;Beispiel;1111;kbeispiel@firma.de;-;01.12.2021, 16:23
+Sam;Noel;kekse;noel;sam@firma.de;Recherche;24.12.2020, 09:50
